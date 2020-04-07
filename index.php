@@ -16,6 +16,45 @@
    <main class="principal">
       <div class="conteudo">
          <nav class="modulos">
+         <div class="modulo azul-escuro">
+               <h3>8. Classes</h3>
+               <ul>
+                  <li><a href="exercicio.php?dir=classe&file=primeiraClasse">Primeira Classe</a></li>
+                  <li><a href="exercicio.php?dir=classe&file=dataClasse">Data Classe</a></li>
+                  <li><a href="exercicio.php?dir=classe&file=construtorDestrutor">Construtor e Destrutor</a></li>
+                  <li><a href="exercicio.php?dir=classe&file=heranca">Herança</a></li>
+               </ul>
+            </div>
+            <div class="modulo vermelho-escuro">
+               <h3>7. Funções</h3>
+               <ul>
+                  <li><a href="exercicio.php?dir=funcoes&file=escopo">Função & Escopo</a></li>
+                  <li><a href="exercicio.php?dir=funcoes&file=args_retorno">Argumentos e Retornos</a></li>
+                  <li><a href="exercicio.php?dir=funcoes&file=desafio_palindromo">Desafio Palindromo</a></li>
+                  <li><a href="exercicio.php?dir=funcoes&file=args_variaveis">Argumentos variáveis</a></li>
+                  <li><a href="exercicio.php?dir=funcoes&file=args_padrao">Argumentos padrão</a></li>
+                  <li><a href="exercicio.php?dir=funcoes&file=usando_tipos">Usando Tipos</a></li>
+                  <li><a href="exercicio.php?dir=funcoes&file=anonima">Funções anonimas</a></li>
+                  <li><a href="exercicio.php?dir=funcoes&file=closure_callable">Closure e Callable</a></li>
+                  <li><a href="exercicio.php?dir=funcoes&file=recursividade">Recursividade</a></li>
+                  <li><a href="exercicio.php?dir=funcoes&file=desafio_recursao">Desafio Recursão</a></li>
+                  <li><a href="exercicio.php?dir=funcoes&file=retornando_funcao.php">Retornando Função</a></li>
+               </ul>
+            </div>
+            <div class="modulo verde-escuro">
+               <h3>6. Estrutura de controle</h3>
+               <ul>
+                  <li><a href="exercicio.php?dir=repeticoes&file=for">Laço For</a></li>
+                  <li><a href="exercicio.php?dir=repeticoes&file=desafio_for">Dasafio For</a></li>
+                  <li><a href="exercicio.php?dir=repeticoes&file=foreach">Foreach</a></li>
+                  <li><a href="exercicio.php?dir=repeticoes&file=break_continue">Break / Continue</a></li>
+                  <li><a href="exercicio.php?dir=repeticoes&file=break_e_continue">Break & Continue</a></li>
+                  <li><a href="exercicio.php?dir=repeticoes&file=desafio_impressao">Desafio Impressão</a></li>
+                  <li><a href="exercicio.php?dir=repeticoes&file=while">While / Do While</a></li>
+                  <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela">Desafio tabela</a></li>
+                  <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela_dois">Desafio tabela II</a></li>
+               </ul>
+            </div>
             <div class="modulo laranja">
                <h3>5. Array</h3>
                <ul>
@@ -25,6 +64,11 @@
                   <li><a href="exercicio.php?dir=array&file=desafio_meses">Desafio Meses</a></li>
                   <li><a href="exercicio.php?dir=array&file=operacoes_array">Operações com array</a></li>
                   <li><a href="exercicio.php?dir=array&file=desafio_sorteio">Desafio Sorteio</a></li>
+                  <li><a href="exercicio.php?dir=array&file=multidimensionais">Multidimensionais</a></li>
+                  <li><a href="exercicio.php?dir=array&file=constantes">Array Constante</a></li>
+                  <li><a href="exercicio.php?dir=array&file=get">Get</a></li>
+                  <li><a href="exercicio.php?dir=array&file=post">Post</a></li>
+                  <li><a href="exercicio.php?dir=array&file=comparacao">Comparação</a></li>
                </ul>
             </div>
             <div class="modulo roxo">
@@ -81,22 +125,7 @@
                   <li><a href="exercicio.php?dir=basico&file=desafio">Desafio PHP 1</a></li>
                </ul>
             </div>
-            <!-- <div class="modulo verde-escuro">
-               <h3>Módulo 06</h3>
-               <ul>
-                  <li><a href="">Exercícios A</a></li>
-                  <li><a href="">Exercícios B</a></li>
-                  <li><a href="">Exercícios C</a></li>
-               </ul>
-            </div> -->
-            <!-- <div class="modulo vermelho-escuro">
-               <h3>Módulo 07</h3>
-               <ul>
-                  <li><a href="">Exercícios A</a></li>
-                  <li><a href="">Exercícios B</a></li>
-                  <li><a href="">Exercícios C</a></li>
-               </ul>
-            </div> -->
+
             <!-- <div class="modulo azul-escuro">
                <h3>Módulo 08</h3>
                <ul>
